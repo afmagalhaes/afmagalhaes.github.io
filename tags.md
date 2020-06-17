@@ -1,7 +1,7 @@
 ---
 layout: page
-permaliink: /categorias/
-title: Categorias
+permalink: /tags
+title: Tags
 ---
 
 
