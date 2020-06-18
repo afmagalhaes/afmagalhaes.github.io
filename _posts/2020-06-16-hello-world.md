@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-categories: Meta
+tags: meta
 published: true
 ---
 
