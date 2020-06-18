@@ -2,11 +2,11 @@ title: afmagalhaes.net
 description: "Site pessoal"
 author:
   name: "Alexandre F. Magalhães"
-  email: "alexandrefm@gmail.com"
+  email: "mail@afmagalhaes.net"
   url: "https://afmagalhaes.net"
 
-#baseurl: /
-
+baseurl: /
+  
 source: .
 destination: ./_site
 #permalink: /:title
