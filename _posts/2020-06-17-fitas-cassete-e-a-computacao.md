@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fitas cassete e a computação
-categories: [Tecnologia, Retro]
+categories: [tecnologia, retro]
 published: true
 ---
 
