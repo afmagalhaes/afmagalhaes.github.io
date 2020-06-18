@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arquivo
+title: Archive
 ---
 
 <section>
