@@ -9,4 +9,5 @@ title: Search
     }
 </style>
 
+<script async src="https://cse.google.com/cse.js?cx=012337775504479175253:wzzmamgunrc"></script>
 <div class="gcse-search"></div>
