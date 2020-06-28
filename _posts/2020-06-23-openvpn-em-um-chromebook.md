@@ -7,7 +7,7 @@ published: true
 
 ![OpenVPN no Chromebook](https://4.bp.blogspot.com/-w3658lha2Os/Wh_8xL10KkI/AAAAAAAABQ4/VPYRriMdhbghlc-V0qL5qLG5xI22llg_gCEwYBhgL/s1600/Screenshot%2B2017-11-30%2Bat%2B10.40.06.png)
 
-O suporte a OpenVPN em Chromebooks sempre foi inexplicavelmente porco e inadequado. Quem como eu adquiriu um atraído pelo preço, peso leve e longa duração de bateria,porém precisava desta funcionalidade, se deparou com um oceano de problemas e frustração.
+O suporte a OpenVPN em Chromebooks sempre foi inexplicavelmente péssimo e incompleto. Quem como eu adquiriu um atraído pelo preço, peso leve e longa duração de bateria,porém precisava desta funcionalidade, se deparou com um oceano de problemas e frustração.
 
 As possíveis soluções para este tipo de conexão espalhadas pela web variam entre criações de arquivos ONC que na maioria dos casos é ineficaz por não oferecer várias das funcionalidades comuns a outras gambiarras que atendem raríssimos casos. No final das contas, nada definitivo ou sequer minimamente adequado.
 
