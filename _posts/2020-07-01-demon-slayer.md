@@ -7,11 +7,10 @@ published: true
 
 ![Demon Slayer](https://i.imgur.com/Q3Rg4b4.jpg){: .center-image }
 
-Finalizei estes dias a adaptação para anime do tão badalado Demon Slayer: Kimetsu no Yaiba. Aquele título que é o atual detentor absoluto dos recordes de vendas de mangás no Japão e criou uma legião de fãs pelo mundo. E vou te falar... Mais que merecido!
+Terminei de assistir por estes dias a adaptação para anime do tão badalado [Demon Slayer: Kimetsu no Yaiba](https://pt.wikipedia.org/wiki/Kimetsu_no_Yaiba). Aquele título que é o atual detentor absoluto dos [recordes de vendas](https://www.crunchyroll.com/pt-br/anime-news/2020/06/23-1/vendendo-como-gua-no-deserto-mang-demon-slayer-kimetsu-no-yaiba-chega-a-80-milhes-de-cpias-em-circulao-no-japo) de mangás no Japão e criou uma legião de fãs pelo mundo. 
 
+O enredo nos leva a acompanhar a história de Tanjiro, um filho exemplar que trabalha duro vendendo carvão na cidade. Logo entendemos que é uma garoto muito querido por todos e com um grande coração. Após esta rápida introdução, testemunhamos seu mundo desabar em uma pancada covarde e brutal! Sua família é assassinada e sua irmã, única sobrevivente, se torna um demônio. Esta cena aterradora lhe revela um novo mundo cruel e sombrio. A partir deste ponto, o jovem irá partir em um viagem cheia de reviravoltas e personagens cativantes em busca de devolver a humanidade à sua irmã e punir os responsáveis por transformar sua vida em um inferno na Terra.
 
-Japão, era Taisho. Tanjiro, um bondoso jovem que ganha a vida vendendo carvão, descobre que sua família foi massacrada por um demônio. E pra piorar, Nezuko, sua irmã mais nova e única sobrevivente, também foi transformada num demônio. Arrasado com esta sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana, e para matar o demônio que matou sua família. Um triste conto sobre dois irmãos, onde os destinos dos humanos e dos demônios se entrelaçam, começa agora.
-
-História sensacional, animação incrível e uma belíssima trilha sonora.
+Depois de assistir os 26 episódios, me tornei um novo fã. E vou te falar... Todo este sucesso é mais que merecido! História sensacional, animação incrível e uma belíssima trilha sonora. Carimbo com gosto, um sólido 10/10 nesta obra! 
 
 Demon Slayer pode ser assistido oficialmente no [Crunchyroll](https://www.crunchyroll.com/pt-br/demon-slayer-kimetsu-no-yaiba).
