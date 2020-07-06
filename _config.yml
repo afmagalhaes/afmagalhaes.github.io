@@ -1,0 +1,40 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Alexandre F. Magalhães
+tagline:             Infraestructure Architect.
+url:                 https://afmagalhaes.net
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Alexandre F. Magalhães
+  url:               https://twitter.com/xandowsk
+  email:             contato@afmagalhaes.net
+
+# Custom vars
+#version:             2.0.1
+github:
+  repo:              https://github.com/afmagalhaes/afmagalhaes.github.io
+google_analytics:    
+linkedin:            alexandremagalhaes
+twitter:             xandowsk
+facebook:            xandowsk
+blogger:             pxninja
+github:              afmagalhaes
+email:               mail@afmagalhaes.net
+#dribbble:            
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist
