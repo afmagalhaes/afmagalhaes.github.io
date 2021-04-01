@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Alexandre F. Magalhães</title>
- <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000/"/>
- <updated>2020-07-06T17:46:57-03:00</updated>
- <id>http://0.0.0.0:4000</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-04-01T13:37:34-03:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Alexandre F. Magalhães</name>
    <email>contato@afmagalhaes.net</email>
